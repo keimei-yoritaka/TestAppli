@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "995566942693",
+    "project_id": "ambient-cubist-93807"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995566942693:android:7ab5cd195368d617",
+        "android_client_info": {
+          "package_name": "com.hpe.jpn.yoritaka.testappli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpTfoGrl6jSzSpP1DiVyCPIP3ZveI1gYA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
